@@ -8,7 +8,9 @@
 
 
 
+### Tecnologias que eu uso no meu dia
 
+### 📋Linguagens :
 
 
 <div style="display: inline_block"><br>
@@ -19,7 +21,7 @@
 <img align="center" alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
 </div>
 
-### 💾  Bancos de dados :
+### 💾Bancos de dados :
 
 <div style="display: inline_block"><br>
 <img align="center" alt="PostgreeSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -27,7 +29,7 @@
 </div>
 
 
-### 🎛️ Aplicativos e ferramentas:
+### 🎛 plicativos e ferramentas:
 
 
 <div style="display: inline_block"><br>
