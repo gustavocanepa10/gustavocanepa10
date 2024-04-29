@@ -1,4 +1,4 @@
-### Hi , I'm João Gustavo
+## Hi , I'm João Gustavo
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/canepa_07/)
@@ -9,7 +9,7 @@
 
 
 
-## Tecnologias que eu uso no meu dia a dia
+### Tecnologias que eu uso no meu dia a dia
 
 ### 📋 Linguagens :
 
