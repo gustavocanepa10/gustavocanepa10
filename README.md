@@ -12,7 +12,6 @@
 
 ### 📋Linguagens :
 
-
 <div style="display: inline_block"><br>
 <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img align="center" alt="Html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -29,8 +28,7 @@
 </div>
 
 
-### 🎛 plicativos e ferramentas:
-
+### 🎛 Aplicativos e Ferramentas:
 
 <div style="display: inline_block"><br>
 <img align="center" alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
