@@ -25,6 +25,9 @@
 
 
 # 📊 GitHub Stats
+
+
+![](https://github-readme-stats.vercel.app/api?username=gustavocanepa10&theme=blue-green)
    
 ![Most Used Languagues](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavocanepa10&theme=blue-green)
 
