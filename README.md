@@ -24,7 +24,7 @@
 <div>
 
 
-# Git Stats
+# 📊 GitHub Stats
    
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/username=gustavocanepa10&show_icons=true%theme=dracula)
 
