@@ -22,7 +22,9 @@
 </div>
 
 <div>
-[!Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green)
+
+   
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavocanepa10{username}&theme=dracula)
 
 
    
