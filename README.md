@@ -1,5 +1,5 @@
-## Hi , I'm João Gustavo
-   I'm a Software Engineering Student!
+## Olá , Me chamo João Gustavo
+   Eu sou um Desenvolvedor Front-end em formação
 
 
 ### 🤝 Contact me
