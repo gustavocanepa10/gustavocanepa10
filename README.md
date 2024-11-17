@@ -1,12 +1,10 @@
 ## Olá , Me chamo João Gustavo
-   Eu sou um Desenvolvedor Full-stack em formação
+   Desenvolvedor Full-stack em formação
 
 
 ### 🤝 Contact me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavociscotto@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/canepa_07/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-gustavo-ferreira-canepa-0a2572226/)
 
 
