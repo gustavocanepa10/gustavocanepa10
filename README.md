@@ -25,8 +25,9 @@
 
 # 📊 GitHub Stats
 
-[João Gustavo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gustavocanepa10&theme=blue-green)  
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavocanepa10&theme=blue-green)
+![João Gustavo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gustavocanepa10&theme=blue-green&show_icons=true)  
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavocanepa10&theme=blue-green&layout=compact)
+
 
 
 
