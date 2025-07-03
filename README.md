@@ -1,5 +1,5 @@
 ## Olá , Me chamo João Gustavo
-   Desenvolvedor Front-end em formação
+   Desenvolvedor Full stack
 
 
 ### 🤝 Contato
