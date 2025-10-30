@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou João Gustavo
 
 Desenvolvedor **Full Stack Junior** apaixonado por criar aplicações web e mobile.  
-Focado em **React, React Native, TypeScript e NodeJS** e sempre buscando aprender novas tecnologias e melhorar minhas habilidades. 🚀
+Focado em **React, React Native, TypeScript e NodeJS**, sempre buscando aprender novas tecnologias e melhorar minhas habilidades. 🚀
 
 ---
 
@@ -26,9 +26,9 @@ Focado em **React, React Native, TypeScript e NodeJS** e sempre buscando aprende
 | Projeto | Descrição | Tecnologias | GitHub | Deploy |
 |---------|-----------|-------------|--------|--------|
 | EventCheck | App de eventos com mapa, localização e imagens via câmera ou galeria | React Native, Expo, SQLite | [GitHub](https://github.com/gustavocanepa10/EventCheck) | - |
-| Coffee Delivery | App de delivery de café com catálogo de produtos e carrinho de compras | ReactJS, CSS Modules, TypeScript | [GitHub](https://github.com/gustavocanepa10/coffee-delivery) | [Deploy](https://coffee-delivery-pi-cyan.vercel.app/) |
-| DT Money | Aplicação de controle financeiro pessoal | ReactJS, TypeScript, Context API | [GitHub](https://github.com/gustavocanepa10/dt-money) | [Deploy](https://dt-money-three-flame.vercel.app/) |
-| Encurta URL | Aplicação web para encurtamento de links | ReactJS, TypeScript, API | [GitHub](https://github.com/gustavocanepa10/Encurtador-Front) | [Deploy](https://vercel.com/gustavo-canepas-projects/encurtador-front) |
+| Coffee Delivery | App de delivery de café com catálogo de produtos e carrinho de compras | ReactJS, CSS Modules, TypeScript | [GitHub](https://github.com/gustavocanepa10/coffee-delivery) | [Deploy](https://coffee-delivery-pi-cyan.vercel.app/) | 
+| DT Money | Aplicação de controle financeiro pessoal | ReactJS, TypeScript, Context API, CSS Modules, Radix | [GitHub](https://github.com/gustavocanepa10/dt-money) |
+| Encurta URL | Aplicação web para encurtamento de links | ReactJS, TypeScript, API Rest | [GitHub](https://github.com/gustavocanepa10/Encurtador-Front) | [Deploy](https://vercel.com/gustavo-canepas-projects/encurtador-front) |
 | The Movie Tracker | Aplicativo de catálogo de filmes, busca e favoritos | ReactJS, TypeScript, API de filmes | [GitHub](https://github.com/gustavocanepa10/TheMovieTracker) | [Deploy](https://vercel.com/gustavo-canepas-projects/the-movie-tracker) |
 
 ---
