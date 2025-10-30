@@ -28,8 +28,8 @@ Focado em **React, React Native, TypeScript e NodeJS**, sempre buscando aprender
 | EventCheck | App de eventos com mapa, localização e imagens via câmera ou galeria | React Native, Expo, SQLite | [GitHub](https://github.com/gustavocanepa10/EventCheck) | - |
 | Coffee Delivery | App de delivery de café com catálogo de produtos e carrinho de compras | ReactJS, CSS Modules, TypeScript | [GitHub](https://github.com/gustavocanepa10/coffee-delivery) | [Deploy](https://coffee-delivery-pi-cyan.vercel.app/) | 
 | DT Money | Aplicação de controle financeiro pessoal | ReactJS, TypeScript, Context API, CSS Modules, Radix | [GitHub](https://github.com/gustavocanepa10/dt-money) |
-| Encurta URL | Aplicação web para encurtamento de links | ReactJS, TypeScript, API Rest | [GitHub](https://github.com/gustavocanepa10/Encurtador-Front) | [Deploy](https://vercel.com/gustavo-canepas-projects/encurtador-front) |
-| The Movie Tracker | Aplicativo de catálogo de filmes, busca e favoritos | ReactJS, TypeScript, API de filmes | [GitHub](https://github.com/gustavocanepa10/TheMovieTracker) | [Deploy](https://vercel.com/gustavo-canepas-projects/the-movie-tracker) |
+| Encurta URL | Aplicação web para encurtamento de links | ReactJS, TypeScript, API Rest | [GitHub](https://github.com/gustavocanepa10/Encurtador-Front) | [Deploy](https://encurtador-front-livid.vercel.app/) |
+| The Movie Tracker | Aplicativo de catálogo de filmes, busca e favoritos | ReactJS, TypeScript, API de filmes | [GitHub](https://github.com/gustavocanepa10/TheMovieTracker) | [Deploy](https://the-movie-tracker-psi.vercel.app/) |
 
 ---
 
@@ -43,4 +43,5 @@ Focado em **React, React Native, TypeScript e NodeJS**, sempre buscando aprender
 ## 🤝 Contato
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavociscotto@gmail.com)  
+<br/>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-gustavo-ferreira-canepa-0a2572226/)
