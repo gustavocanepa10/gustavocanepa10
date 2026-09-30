@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou João Gustavo
 
 Desenvolvedor **Full Stack Júnior** apaixonado por criar aplicações web e mobile.  
-Focado em **React, React Native, TypeScript e NodeJS**, sempre buscando aprender novas tecnologias e melhorar minhas habilidades. 🚀
+Focado em **PHP, Laravel, React, React Native, TypeScript e NodeJS**, sempre buscando aprender novas tecnologias e melhorar minhas habilidades. 🚀
 
 ---
 
